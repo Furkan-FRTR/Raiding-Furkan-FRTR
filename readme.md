@@ -46,11 +46,13 @@ PS : Change le pseudo de tous les membres ayant un certain rôle.
 
 Le bot demande l'ID utilisateur et le token au lancement.
 
-
 L'ID utilisateur est utilisé pour déterminer les autorisations pour exécution les commandes.
 
-
 Le préfixée est "!" par default mais changable dans le code 
+
+Installez les dépendances nécessaires en exécutant la commande suivante dans votre terminal 
+(assurez-vous d'être dans le répertoire du script):
+pip install -r requirements.txt
 
 # Démarrage
 
