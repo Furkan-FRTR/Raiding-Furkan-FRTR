@@ -1,5 +1,5 @@
 
-# Raiding fr41tr42 # 
+# Raiding Furkan-FRTR # 
 
 Un bot Discord est utiliser pour raid un serveur ou autre XD
 
@@ -60,6 +60,6 @@ python Raiding.py
 
 # Auteur
 
-Bot créé par fr41tr42
+Bot créé par Furkan-FRTR
 
 # Note : Veuillez noter que l'utilisation de ce bot doit respecter les règles et conditions d'utilisation de Discord. L'auteur n'est pas responsable de tout comportement indésirable ou de toute violation des règles de Discord découlant de l'utilisation de ce bot. #
