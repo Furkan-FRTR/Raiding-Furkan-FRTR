@@ -169,7 +169,7 @@ async def show_help(ctx):
         page_description = "\n".join([f"**!{command.name}** - {command.help}" for command in page_commands])
         page_embed = discord.Embed(title="Aide", description=page_description, color=0x00FF00)
         page_embed.set_thumbnail(url="https://i.imgur.com/BTl4SEP.png")
-        page_embed.set_footer(text=f"Page {i+1}/{total_pages} - Bot créé par fr41tr42#9523")
+        page_embed.set_footer(text=f"Page {i+1}/{total_pages} - Bot créé par Furkan-FRTR")
         pages.append(page_embed)
 
     # Supprime les mentions dans le message de commande
