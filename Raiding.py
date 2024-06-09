@@ -172,7 +172,6 @@ async def show_help(ctx):
         page_embed.set_footer(text=f"Page {i+1}/{total_pages} - Bot créé par Furkan-FRTR")
         pages.append(page_embed)
 
-    # Supprime les mentions dans le message de commande
     clean_content = ctx.message.clean_content
 
     message = await ctx.send(embed=pages[current_page-1])
